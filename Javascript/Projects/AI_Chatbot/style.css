@@ -35,3 +35,19 @@ body {
     gap: 10px;
     align-items: center;
 }
+
+.header-info .chatbot-logo {
+    height: 35px;
+    width: 35px;
+    padding: 7px;
+    fill: #1958df;
+    flex-shrink: 0;
+    background: #fff;
+    border-radius: 50%;
+}
+
+.header-info .logo-text {
+    color: #fff;
+    font-size: 1.31rem;
+    font-weight: 600;
+}
